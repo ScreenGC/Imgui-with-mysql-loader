@@ -11,3 +11,5 @@ libcurl.dll
 libmysql.dll
 
 zlib1.dll
+
+![Preview](https://raw.githubusercontent.com/ScreenGC/Imgui-with-mysql-loader/refs/heads/main/preview.png)
